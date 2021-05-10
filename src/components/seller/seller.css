@@ -1,0 +1,91 @@
+Nav.Item{
+    font-size: 100px;
+}
+
+.div-backcolor{
+    background-color:whitesmoke;
+    border: 2px solid #c2bebe;
+    border-bottom: none;
+    border-top: none;
+} 
+.cutsom-grid{
+    border: 1px solid rgb(216, 208, 208);
+    margin-right:10px;
+    margin-bottom:20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+
+.card-header{
+    margin-top:5px;
+    padding-bottom:5px;
+    border-bottom: 1px solid rgb(216, 208, 208);
+    font-size:15px;
+}
+.card-header-icon{
+    margin-left: 2px;
+    padding-right: 5px;
+}
+
+.card-body{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+.card-body-icon{
+    margin-left: 2px;
+    padding-right: 5px;
+}
+
+.card-footer{
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+.card-footer-Link{
+    float: right;
+}
+
+
+.div-backcolor2{
+
+    background-color:whitesmoke;
+    border: 1px solid rgb(216, 208, 208);
+    border-bottom: none;
+    border-top: none;
+}
+
+.panel-backcolor{
+    background-color:whitesmoke;
+
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.content-align{
+    margin-left:-90px;
+}
+.lead-name{
+    border-bottom: 5px solid rgb(216, 208, 208);
+}
+
+.summary{
+    border-bottom: 5px solid rgb(216, 208, 208);
+    margin-bottom:10px;
+}
+
+/* css for modal*/
+.first-column {
+    width: 45%;
+    float: left;
+    
+  }
+  
+  .second-column {
+    width: 45%;
+    float: right;
+    
+  }  
